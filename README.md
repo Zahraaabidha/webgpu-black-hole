@@ -4,7 +4,7 @@ A real-time, physically-inspired black hole renderer built with WebGPU and Three
 
 ![Black hole render](public/screenshot.png)
 
-** Live demo:** [webgpu-black-hole.vercel.app](https://webgpu-black-hole.vercel.app/)
+**Live demo:** [webgpu-black-hole.vercel.app](https://webgpu-black-hole.vercel.app/)
 
 Built by [Aabidha](https://github.com/Zahraaabidha).
 
